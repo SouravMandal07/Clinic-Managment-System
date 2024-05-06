@@ -19,7 +19,7 @@ user email : user@gmail.com user password : 12345678
 
 To delete old MySQL data, simply go to project directory and open terminal or cmd and run command: php artisan migrate:refresh.
 
-for any query : souravmandal.sou07@gmail.com | http://codingsourav.000webhostapp.com
+for any query : souravmandal.sou07@gmail.com | https://codersourav.000webhostapp.com
 
 
 
